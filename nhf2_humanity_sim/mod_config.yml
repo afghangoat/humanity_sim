@@ -1,0 +1,27 @@
+#Mennyire legyen bőbeszédű a program debug loggere? (0: csak kritikus, 1: hibák, 2: figyelmeztetés, 3: minden)
+debug_level: 3
+#Mennyi legyen a megcélzott fps?
+target_fps: 60
+
+#A render ablak mérete:
+screen_width: 960
+screen_height: 640
+
+#Hányszor hány kocka legyen a világ.
+world_size: 40
+
+#Milyen nyelvű legyen a logger: (NONE: ne logoljon, MAGYAR: Magyarul, ENGLISH: Angolul)
+what_language: MAGYAR
+#Milyen nyelvű legyen az SFML logger: (NONE: ne logoljon, MAGYAR: Magyarul, ENGLISH: Angolul)
+what_sfml_language: NONE
+
+max_spawn_tries: 99
+
+hostiles_count: 1
+resource_scarcity: 4
+
+day_length: 400.0
+
+#Egyéb grafikus beállítások
+chromatic_aberration: 0
+noise: 0
