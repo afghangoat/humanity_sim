@@ -1,5 +1,7 @@
 # NHF2 - Humanity simulator.
 
+![Spoiler image](https://afghangoat.hu/img/img103.png)
+
 A simple humanity simulator which can simulate a world, where humans chose classes and develop their city and technology.
 Contains a custom headless SFML library made by me.
 Also supports Hungarian and English error logging.
