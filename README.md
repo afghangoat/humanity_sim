@@ -28,7 +28,7 @@ Also supports Hungarian and English error logging.
 
 ### `Content`
 
-- Humans: (Stonemason, Woddcutter, King, Farmer, Builder, Soldier/Hunter, Anglerminer, Fisherman, Idle)
+- Humans: (Stonemason, Woodcutter, King, Farmer, Builder, Soldier/Hunter, Anglerminer, Fisherman, Idle)
 - Animals: Goat, Crocodile, Bear
 - Killer robot
 - Resources: Bush, Tree, Iron, Stone
